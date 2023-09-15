@@ -1,3 +1,3 @@
 # Hello folks! 👹
-> Welcome to practice, Sport. :football:
+> Welcome to practice, Sport. 🏈
 <!-- add more later-->
