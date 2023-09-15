@@ -1,3 +1,3 @@
-# Hello folks! U+1F479
+# Hello folks! 👹
 > Welcome to practice, Sport.
 <!-- add more later-->
