@@ -5,7 +5,7 @@
 
 <div>
    <img alt = "python" src = "https://img.shields.io/badge/python-blue?style=for-the-badge&logo=pycharm&logoColor=white)">
-   <img alt = "MySQL" src = "https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=mysql&logoColor=white">
+   <img alt = "MySQL" src = "https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=codio&logoColor=white">
    <img alt = "Java" src = "https://img.shields.io/badge/Eclipse%20/%20Java-FE7A16?style=for-the-badge&logo=Eclipse&logoColor=white">
 </div>
 <!-- add more later-->
