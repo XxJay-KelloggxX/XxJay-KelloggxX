@@ -7,6 +7,6 @@
    <img alt = "python" src = "https://img.shields.io/badge/python-blue?style=for-the-badge&logo=pycharm&logoColor=white)">
    <img alt = "MySQL" src = "https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=codio&logoColor=white">
    <img alt = "Java" src = "https://img.shields.io/badge/Java-purple?style=for-the-badge&logo=Eclipse&logoColor=white">
-   <img alt = "HTML" src = "https://img.sheilds.io/badge/WEB-green?style=for-the-badge&logo=sololearn&logoColor=red,green,yellow"
+   <img alt = "HTML" src = "https://img.sheilds.io/badge/WEB-green?style=for-the-badge&logo=sololearn&logoColor=black"
 </div>
 <!-- add more later-->
