@@ -3,5 +3,5 @@
 <p align = "center">This is a place of practice, Sport. 🏈</p>
 <h2 align = "center">Languages of focus:</h2>
 
-<img>https://img.shields.io/npm/v/python.svg?logo=python3</img>
+<img src = "https://img.shields.io/npm/v/python.svg?logo=python3">
 <!-- add more later-->
