@@ -12,6 +12,8 @@
 </div>
 
 <div>
-   <h2 align = "center">Feild Focus:</h2>
+   <h2 align = "center">Current Feild Focus:</h2>
+
+<h1 align = "center">Full Stack Developer</h1>
 </div>
 <!-- add more later-->
