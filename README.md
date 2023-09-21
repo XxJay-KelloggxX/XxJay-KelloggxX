@@ -12,7 +12,7 @@
 </div>
 
 <div>
-   <h2 align = "center">Current Feild Focus:</h2>
+   <h2 align = "center">Current Feilds of Focus:</h2>
    <ol>
       <h1 align = "center">Full Stack Developer</h1>
       <h1 align = "center">Software Developer</h1>
