@@ -15,7 +15,7 @@
 
 <div align = "center">
    <h3>Study through:</h3>
-   <img alt = "SNHU" src = "https://img.shields.io/badge/yellow-SN-HU-blue?style-for-the-badge&logo=SNHU&logoColor=blue">
+   <img alt = "SNHU" src = "https://img.shields.io/badge/SN-HU-blue?style-for-the-badge&logo=snhu&logoColor=blue">
    
 </div>
 
