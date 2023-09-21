@@ -13,6 +13,12 @@
    <img alt = "LaTeX" src = "https://img.shields.io/badge/LaTeX%20/%20pdf-green?style=for-the-badge&logo=codio&logoColor=black">
 </div>
 
+<div align = "center">
+   <h3>Study through:</h3>
+   <img = "https://img.shields.io/badge/SN-blue-HU-yellow?style = for-the-badge">
+   
+</div>
+
 <div>
    <h2 align = "center">Current Feilds of Focus:</h2>
    <ol>
