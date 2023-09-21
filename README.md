@@ -13,7 +13,9 @@
 
 <div>
    <h2 align = "center">Current Feild Focus:</h2>
-
-<h1 align = "center">Full Stack Developer</h1>
+   <ol>
+      <h1 align = "center">Full Stack Developer</h1>
+      <h1 align = "center">Software Developer</h1>
+   </ol>
 </div>
 <!-- add more later-->
