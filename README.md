@@ -12,6 +12,6 @@
 </div>
 
 <div>
-   <h2 align = "center">Feild Focus</h2>
+   <h2 align = "center">Feild Focus:</h2>
 </div>
 <!-- add more later-->
