@@ -10,4 +10,8 @@
    <img alt = "JavaScript" src = "https://img.shields.io/badge/html,%20css,%20javascript-%23323330.svg?style=for-the-badge&logo=sololearn&logoColor=%23F7DF1E">
    <img alt = "LaTeX" src = "https://img.shields.io/badge/LaTeX%20/%20pdf-green?style=for-the-badge&logo=codio&logoColor=black">
 </div>
+
+<div>
+   <h2 align = "center">Feild Focus</h2>
+</div>
 <!-- add more later-->
